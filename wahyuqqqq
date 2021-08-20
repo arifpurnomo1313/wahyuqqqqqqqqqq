@@ -25,7 +25,7 @@
       "link_file": "https://archive.org/download/wahyu-abadi-m-18_20210817_1016/wahyu%20abadi%20m18.bussidmod",
       "link_busidgayor": "",
       "link_busidsegitiga": "",
-      "link_busidnoterpal": "",
+      "link_busidnoterpal": ",
       "link_busidcincing": "", 
      
       
@@ -43,7 +43,7 @@
       "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
       "link_busidgayor": "",
       "link_busidsegitiga": "",
-      "link_busidnoterpal": "",
+      "link_busidnoterpal": ",
       "link_busidcincing": "", 
      
       
@@ -58,6 +58,150 @@
     {
       "id": "3",
       "tittle": "Wahyu Abadi BK1BK4",
+      "link_file": "https://archive.org/download/b-1-bk-4-terpal-kotak_202108/B1Bk4%20Terpal%20Kotak.bussidmod",
+      "link_busidgayor": "https://archive.org/download/canter-gayor-edit-bemper-blakang_202108/canter%20gayor%20edit%20bemper%20blakang.bussidmod",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "https://archive.org/download/b-1-bk-4-terpal-cincing_202108/B1Bk4%20Terpal%20Cincing.bussidmod", 
+     
+      
+      "link_liverykotak": "https://ia601400.us.archive.org/23/items/wahyu-abadi-by-afra-app_20210817_1120/Wahyu%20Abadi%20By%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601409.us.archive.org/19/items/bk-1bk-4-2/bk1bk4%202.png"      
+    },
+	
+    {
+      "id": "4",
+      "tittle": "Wahyu Abadi Pengamen Mbois",
+      "link_file": "https://archive.org/download/pengamen-mbois-afra-app_202108/pengamen%20mbois%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601402.us.archive.org/24/items/kotak_20210817/KOTAK.png",
+      "link_liverygayor": "https://ia601402.us.archive.org/3/items/gayor_20210817/GAYOR.png",
+      "link_liverysegitiga": "https://ia601504.us.archive.org/22/items/segi-3_202108/SEGI3.png",
+      "link_liverynoterpal": "https://ia801505.us.archive.org/22/items/no-terpal_202108/NO%20TERPAL.png",
+      "link_liverycincing": "",     
+      "images": "https://ia801506.us.archive.org/8/items/pengamen-mbiois-2/pengamen%20mbiois%202.png"      
+    },
+	
+    {
+      "id": "5",
+      "tittle": "Wahyu Abadi Muat Beras",
+      "link_file": "https://archive.org/download/wahyu-muat-beras-by-afra-app_202108/wahyu%20muat%20beras%20by%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601408.us.archive.org/22/items/wahyu-abadi-by-afra-app_20210817_1151/Wahyu%20Abadi%20by%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia801409.us.archive.org/32/items/muat-beras-2/muat%20beras%202.png"      
+    },
+	
+    {
+      "id": "6",
+      "tittle": "Wahyu Abadi Ceper Racing",
+      "link_file": "https://archive.org/download/new-wahyu-abadi-velg-ceper-racing_20210817/new%20wahyu%20abadi%20velg%20%20ceper%20racing.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601403.us.archive.org/18/items/ceper-racing-by-afra-app_202108/ceper%20racing%20by%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia801403.us.archive.org/14/items/ceper-racing/ceper%20racing.png"      
+    },
+	
+    {
+      "id": "7",
+      "tittle": "Wahyu Abadi Full Stiker",
+      "link_file": "https://archive.org/download/wa-full-stiker-by-afra-app_20210817/wa%20full%20stiker%20by%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601506.us.archive.org/32/items/wa-full-stiker-by-afra-app_20210817_1242/wa%20full%20stiker%20by%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601406.us.archive.org/26/items/full-siker/full%20siker.png"      
+    },
+	
+    {
+      "id": "8",
+      "tittle": "Wahyu Abadi v2",
+      "link_file": "https://archive.org/download/wahyu-abadi-v-2-by-afra-app_202108/Wahyu%20Abadi%20v2%20by%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601502.us.archive.org/19/items/livery-wahyu-abadi-v-2-by-afra-app_202108/Livery%20Wahyu%20Abadi%20v2%20by%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601401.us.archive.org/11/items/wa-v-22/wa%20v22.png"      
+    },
+	
+    {
+      "id": "9",
+      "tittle": "Wahyu Abadi Tanpa Bak",
+      "link_file": "https://archive.org/download/wahyu-abadi-tanpa-bak_202108/Wahyu%20Abadi%20Tanpa%20Bak.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601402.us.archive.org/26/items/livery-tanpa-bak-by-afra-app_202108/livery%20tanpa%20bak%20by%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601405.us.archive.org/4/items/tanpa-bak-2/tanpa%20bak%202.png"      
+    },
+	
+    {
+      "id": "10",
+      "tittle": "Wahyu Abadi V4",
+      "link_file": "https://archive.org/download/new-wahyu-abadi-v-4_202108/new%20wahyu%20abadi%20v4.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601507.us.archive.org/10/items/wa-v-4_202108/wa%20v4.png"      
+    },
+	
+    {
+      "id": "11",
+      "tittle": "terakhir",
       "link_file": "https://archive.org/download/b-1-bk-4-terpal-kotak_202108/B1Bk4%20Terpal%20Kotak.bussidmod",
       "link_busidgayor": "https://archive.org/download/canter-gayor-edit-bemper-blakang_202108/canter%20gayor%20edit%20bemper%20blakang.bussidmod",
       "link_busidsegitiga": "",
